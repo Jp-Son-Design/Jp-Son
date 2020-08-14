@@ -1,3 +1,47 @@
+/*Lista AnimeID
+--------------------------------------*/
+.listanime{
+text-align: left;
+}
+.listanime a{
+background-color: #cbe9f8;
+background-image: none;
+border-bottom: 1px solid #77c8ed;
+border-radius: 4px 4px 4px 4px;
+border-right: 1px solid #77c8ed;
+color: #000;
+display: block;
+font-style: normal;
+height: 18px;
+overflow: hidden;
+padding: 2px 7px 7px;
+text-decoration: none;
+text-shadow: 0 1px 0 #a5c4d3;
+-moz-transition: all 0.5s;
+-webkit-transition: all 0.5s;
+-o-transition: all 0.5s;
+}
+.listanime a:hover{
+background-color: #24b6bd;
+border-bottom: 1px solid #209fa6;
+border-right: 1px solid #209fa6;
+color: #FFFFFF;
+text-shadow: 0 1px 0 #209FA6;
+display: block;
+font-style: normal;
+height: 18px;
+overflow: hidden;
+padding: 2px 7px 7px;
+text-decoration: none;
+-moz-transition: all 0.5s;
+-webkit-transition: all 0.5s;
+-o-transition: all 0.5s;
+}
+.listanime p{
+margin-bottom: 0;
+margin-top: 0;
+}
+
 .structureG_dtup{position: relative;
     padding: 86px 0;
     margin: -20px 0 6px;}
